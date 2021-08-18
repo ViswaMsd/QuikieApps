@@ -1,0 +1,21 @@
+[
+  {
+    "hero_cards": [
+      {
+        "name": "GOOGLE",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/2048px-Google_%22G%22_Logo.svg.png",
+        "stock_value": "1515 USD"
+      },
+      {
+        "name": "FACEBOOK",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/2048px-F_icon.svg.png",
+        "stock_value": "266 USD"
+      },
+      {
+        "name": "AMAZON",
+        "logo": "https://cdn.worldvectorlogo.com/logos/amazon-icon-1.svg",
+        "stock_value": "3116 USD"
+      }
+    ]
+  }
+]

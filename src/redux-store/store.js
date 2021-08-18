@@ -18,6 +18,11 @@ const coinSlice = createSlice({
         }
       }
     },
+    deletHandler(state, action) {
+      state.savedCoins = state.savedCoins.filter((coin) => coin.symbol !== action.payload);
+      const index = state.coins.findIndex((coin) => coin.symbol === action.payload);
+      state.coins[index].isSaved = false;
+    },
   },
 });
 

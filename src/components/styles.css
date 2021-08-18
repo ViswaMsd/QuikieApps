@@ -1,0 +1,10 @@
+@media only screen and (max-width: 600px) {
+  .market_cap {
+    display: none;
+    /* color: red; */
+  }
+  .price {
+    display: none;
+    /* color: red; */
+  }
+}
